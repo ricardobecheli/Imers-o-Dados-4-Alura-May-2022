@@ -8,7 +8,7 @@
 ### 1) Imported pandas "as" pd (a nickname)
 ### 2) Imported data from gist and at the same time creatind a variable "url" containing the imported data.
 ### 3) Named "dados" the variable containing the csv result of "url".
-### 4) Gave the command "head", which shows:
+### 4) Gave the command "dados.head()", which shows:
 a- The first five entries of the Data Frame (DF);
 
 b- The "n" entries if you fill the ".head" parenthesis with a number.
