@@ -12,3 +12,7 @@
 a- The first five entries of the Data Frame (DF);
 
 b- The "n" entries if you fill the ".head" parenthesis with a number.
+
+# May 27, 2022:
+
+### Deployed the Jupyter Notebook as HTML and deployed at Vercel.
