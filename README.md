@@ -16,3 +16,7 @@ b- The "n" entries if you fill the ".head" parenthesis with a number.
 # May 27, 2022:
 
 ### Deployed the Jupyter Notebook as HTML and deployed at Vercel.
+
+It has more than 17,000 lines of HTML code!!!
+
+In a little more than 600k. (It's small, so leave it there).
